@@ -1,7 +1,7 @@
-svg path#k{
-    fill: var(--highlight-color);
+svg path#o {
+  fill: var(--highlight-color);
 }
 #square {
-    stroke-width: 5;
-    stroke: var(--highlight-color);
+  stroke-width: 5;
+  stroke: var(--highlight-color);
 }

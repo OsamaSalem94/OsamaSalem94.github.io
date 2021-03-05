@@ -1,6 +1,6 @@
 {
-  "name": "Karim Shalapy's Portfolio",
-  "short_name": "Karim Shalapy",
+  "name": "Osama Salem's Portfolio",
+  "short_name": "Osama Salem",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "theme_color": "#0a192f",
   "background_color": "#0a192f",
-  "start_url": "https://karimshalapy.github.io/",
+  "start_url": "https://osamasalem94.github.io/",
   "display": "standalone"
 }
