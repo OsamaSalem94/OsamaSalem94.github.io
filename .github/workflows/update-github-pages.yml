@@ -1,0 +1,23 @@
+name: Update Github pages
+"on":
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  build_and_preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Set up Node.js version
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14.x"
+      - run: npm i
+      - run: npm run build
+      - run: git add build -f
+      - run: git commit -m "update github pages"
+      - run: git subtree push --prefix build origin gh-pages
