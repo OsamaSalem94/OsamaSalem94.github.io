@@ -15,12 +15,12 @@ const Hero: React.FC<Props> = (props) => {
         Osama Salem.
       </Heading>
       <Heading variant="h3" size="big" customClass="fade-up-delayed">
-        I am a data analyst
+        I am a data scientist
       </Heading>
       <p className="fade-up-delayed">
-        Data analysis can be a long tiring process, but I enjoy it and have the
-        knack for it. I am a data analyst based in Egypt specializing in
-        cleaning, analyzing and providing key insights for big datasets.
+        Data science can be a long tiring process, but I enjoy it and have the
+        knack for it. I am a data scientist based in Egypt specializing in
+        cleaning datasets and building machine learning models.
       </p>
       <div className="fade-up-delayed">
         <Button
