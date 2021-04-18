@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97a33bef.chunk.css",
+    "main.js": "/static/js/main.42d7d585.chunk.js",
+    "main.js.map": "/static/js/main.42d7d585.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9b8bb62.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9b8bb62.js.map",
+    "static/js/2.90636ea4.chunk.js": "/static/js/2.90636ea4.chunk.js",
+    "static/js/2.90636ea4.chunk.js.map": "/static/js/2.90636ea4.chunk.js.map",
+    "static/js/3.012063a4.chunk.js": "/static/js/3.012063a4.chunk.js",
+    "static/js/3.012063a4.chunk.js.map": "/static/js/3.012063a4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.97a33bef.chunk.css.map": "/static/css/main.97a33bef.chunk.css.map",
+    "static/js/2.90636ea4.chunk.js.LICENSE.txt": "/static/js/2.90636ea4.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/SFMono-SemiboldItalic.9a0ae638.woff2",
+    "static/media/Logo.8855dde1.svg": "/static/media/Logo.8855dde1.svg",
+    "static/media/appstore.db01c2c5.svg": "/static/media/appstore.db01c2c5.svg",
+    "static/media/codepen.5fba7d50.svg": "/static/media/codepen.5fba7d50.svg",
+    "static/media/external.0e8a657f.svg": "/static/media/external.0e8a657f.svg",
+    "static/media/folder.7aa7d8f7.svg": "/static/media/folder.7aa7d8f7.svg",
+    "static/media/fork.ad1e8850.svg": "/static/media/fork.ad1e8850.svg",
+    "static/media/github.05ec7aff.svg": "/static/media/github.05ec7aff.svg",
+    "static/media/hackerrank.ce244bee.svg": "/static/media/hackerrank.ce244bee.svg",
+    "static/media/instagram.4ed1406e.svg": "/static/media/instagram.4ed1406e.svg",
+    "static/media/kaggle.467930f9.svg": "/static/media/kaggle.467930f9.svg",
+    "static/media/linkedin.39a78653.svg": "/static/media/linkedin.39a78653.svg",
+    "static/media/me.b7e84d53.jpg": "/static/media/me.b7e84d53.jpg",
+    "static/media/playstore.5b94d26a.svg": "/static/media/playstore.5b94d26a.svg",
+    "static/media/star.4583d3af.svg": "/static/media/star.4583d3af.svg",
+    "static/media/twitter.8fd033f3.svg": "/static/media/twitter.8fd033f3.svg",
+    "static/media/zap.fde72d9d.svg": "/static/media/zap.fde72d9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b8bb62.js",
+    "static/js/2.90636ea4.chunk.js",
+    "static/css/main.97a33bef.chunk.css",
+    "static/js/main.42d7d585.chunk.js"
+  ]
+}
